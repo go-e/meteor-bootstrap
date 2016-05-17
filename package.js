@@ -1,7 +1,7 @@
 Package.describe({
   name: "csillag:bootstrap",
   summary: "Highly configurable bootstrap integration.",
-  version: "3.3.5_2",
+  version: "3.3.5_3",
   git: "https://github.com/go-e/meteor-bootstrap"
 });
 
