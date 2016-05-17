@@ -1,4 +1,11 @@
-#*Upgrade problems?* 
+
+Status
+==================
+This package is a fork of [nemo64:bootsrap](https://atmospherejs.com/nemo64/bootstrap).
+It will only be around until [this issue](https://github.com/Nemo64/meteor-bootstrap/issues/68) with the original package is solved.
+
+Upgrade problems?
+=================
 `nemo64:bootstrap` does not work with Meteor 1.2. For a similar packages that does work with Meteor 1.2, try https://github.com/huttonr/bootstrap3
 
 Bootstrap for Meteor
