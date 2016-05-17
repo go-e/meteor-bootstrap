@@ -1,8 +1,8 @@
 Package.describe({
-  name: "nemo64:bootstrap",
+  name: "csillag:bootstrap",
   summary: "Highly configurable bootstrap integration.",
   version: "3.3.5_2",
-  git: "https://github.com/Nemo64/meteor-bootstrap"
+  git: "https://github.com/go-e/meteor-bootstrap"
 });
 
 var pluginOptions = {
